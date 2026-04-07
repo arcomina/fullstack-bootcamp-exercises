@@ -6,7 +6,7 @@ En este módulo se sientan las bases teóricas y la configuración del ecosistem
 
 ## 🐍 Temas del Módulo
 
-1. [Historia de Python](./1.Historia%20de%20Python.md)
+1. [Historia de Python](./Historia%20de%20Python.md)
 2. [El Zen de Python (PEP 20)](./2.El%20Zen%20de%20Python%20(PEP%2020).md)
 3. [Arquitectura de CPython](./3.Arquitectura%20de%20CPython.md)
 4. [Bytecode de Python](./4.Bytecode%20de%20Python.md)
